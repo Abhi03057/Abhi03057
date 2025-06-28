@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on web development projects, especially involving React and frontend design.<br>🤝 I’m looking for help with optimizing performance in complex React applications.<br>🌱 I’m currently learning advanced React concepts, database management, and exploring AI-driven solutions.<br>💬 Ask me about JavaScript, React, and building responsive web applications.<br>⚡ Fun fact: I once built a text editor called 'The-Brogrammer' just for fun, and now I use it daily!
-
+👯 I’m looking to collaborate on web development projects, especially involving React and frontend design.<br>🤝 I’m looking for help with optimizing performance in complex React applications.<br>🌱 I’m currently learning advanced React concepts, database management, and exploring AI-driven solutions.<br>💬 Ask me about JavaScript, React, and building responsive web applications.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ab_pan07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhyuday-panwar-9579b2) 
