@@ -2,7 +2,6 @@
 
 I build full-stack and AI/ML products — from idea to deployment. Currently a final year CS (AI & ML) student at SRM Institute of Science and Technology, Chennai.
 
-- 🔭 Currently building **Dossier** — a real-time competitive intelligence platform (news, hiring signals, GitHub activity)
 - 🧠 Interested in applied AI/ML, full-stack development, and developer tooling
 - 🛠️ Previously built **Merakli** during my internship at Fusion Business Solutions
 - 📫 Reach me at **panwarabhyuday@gmail.com** or [LinkedIn](https://linkedin.com/in/abhyuday-panwar-9579b2289)
