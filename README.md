@@ -1,10 +1,10 @@
 # Hi, I'm Abhyuday 👋
 
-I build full-stack and AI/ML products — from idea to deployment. Currently a final year CS (AI & ML) student at SRM Institute of Science and Technology, Chennai.
+Final year CS (AI & ML) student at SRMIST, Chennai. I build full-stack and AI/ML products end-to-end — from architecture to deployment.
 
-- 🧠 Interested in applied AI/ML, full-stack development, and developer tooling
-- 🛠️ Previously built **Merakli** during my internship at Fusion Business Solutions
-- 📫 Reach me at **panwarabhyuday@gmail.com** or [LinkedIn](https://linkedin.com/in/abhyuday-panwar-9579b2289)
+Previously interned at **DHub Technologies** (full-stack, PostgreSQL, Docker) and **Fusion Business Solutions** (built Merakli, a React + Firebase platform in production). My work sits at the intersection of applied AI and software engineering — I'm most interested in problems where LLMs, real-time data, and clean system design meet.
+
+📬 [panwarabhyuday@gmail.com](mailto:panwarabhyuday@gmail.com) · [LinkedIn](https://linkedin.com/in/abhyuday-panwar-9579b2289) · [GitHub](https://github.com/Abhi03057)
 
 ---
 
